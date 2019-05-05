@@ -1,2 +1,5 @@
 # hello-world
-My first repository to learn how to use GitHub
+
+Hello everyone!
+
+My name is Jameel and I am working to transition my career from Human Resources into Data Science.
